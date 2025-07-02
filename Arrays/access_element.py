@@ -10,3 +10,5 @@ def access_element(array, index):
         print(array[index])
 
 access_element(arr1, 2)  # Accessing the element at index 2
+
+
